@@ -21,7 +21,7 @@ I participated in the **Google Cloud Arcade 2024** challenge and successfully co
 ## 📸 Swag Preview
 *(Add image here if you want — see below)*
 
-![Swag](relative-or-direct-image-link)
+![Swag](arcade-swags-puskar.jpeg)
 
 ## 🚀 Thanks to
 Google Cloud & Qwiklabs for an amazing learning experience!
