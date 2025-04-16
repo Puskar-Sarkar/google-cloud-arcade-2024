@@ -26,8 +26,3 @@ I participated in the **Google Cloud Arcade 2024** challenge and successfully co
 Google Cloud & Qwiklabs for an amazing learning experience!
 
 
-A big thanks to @Google Cloud and @Qwiklabs for this amazing hands-on journey,  
-and to @Printo for the quick and safe delivery of the swag! 📦✨  
-#GoogleCloud #CloudArcade #Printo #Qwiklabs #SwagDrop #TechJourney
-
-
