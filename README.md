@@ -19,9 +19,8 @@ I participated in the **Google Cloud Arcade 2024** challenge and successfully co
 - IAM, GCP CLI, BigQuery, and more
 
 ## 📸 Swag Preview
-*(Add image here if you want — see below)*
 
-![Swag](arcade-swags-puskar.jpeg)
+![Swag Pack](arcade-swags-puskar.jpeg)
 
 ## 🚀 Thanks to
 Google Cloud & Qwiklabs for an amazing learning experience!
