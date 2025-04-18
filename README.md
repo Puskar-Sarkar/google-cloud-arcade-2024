@@ -12,6 +12,10 @@ I participated in the **Google Cloud Arcade 2024** challenge and successfully co
 
 ## 📦 Swag Unboxing Video
 🎥 [Watch on YouTube](https://www.youtube.com/watch?v=MMLOnEt5uQs)
+<a href="https://www.youtube.com/watch?v=MMLOnEt5uQs" target="_blank">
+  <img src="https://img.youtube.com/vi/MMLOnEt5uQs/0.jpg" alt="Watch the video" width="600"/>
+</a>
+
 
 ## 💼 LinkedIn Post:
 [🔗 View my LinkedIn profile](https://www.linkedin.com/posts/puskarsarkar_cloudarcade-googlecloud-cloudarcade-activity-7318333606228123648-r9cb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFgwIkcBq9XBIQQQXWzVc9ad8N2_TxU9Izs)
