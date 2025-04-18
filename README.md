@@ -12,6 +12,8 @@ I participated in the **Google Cloud Arcade 2024** challenge and successfully co
 
 ## 📦 Swag Unboxing Video
 🎥 [Watch on YouTube](https://www.youtube.com/watch?v=MMLOnEt5uQs)
+
+  [![Watch on YouTube](https://raw.githubusercontent.com/Puskar-Sarkar/google-cloud-arcade-2024/main/arcade-swags-puskar.jpeg)](https://www.youtube.com/watch?v=MMLOnEt5uQs)
 <a href="https://www.youtube.com/watch?v=MMLOnEt5uQs" target="_blank">
   <img src="https://img.youtube.com/vi/MMLOnEt5uQs/0.jpg" alt="Watch the video" width="600"/>
 </a>
