@@ -5,7 +5,8 @@ I participated in the **Google Cloud Arcade 2024** challenge and successfully co
 ## 🌩️ Tracks Completed
 - Cloud Engineering
 - GenAI / ML
-- Infrastructure & Security and more
+- Infrastructure & Security
+<br> and more
 
 ## 📜 Google Cloud Skills Boost Profile
 [🔗 View my public profile](https://www.cloudskillsboost.google/public_profiles/7f08737e-732a-4401-bf79-af10a245d2c9)
